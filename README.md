@@ -1,40 +1,40 @@
-  # Portfolio
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://www.mit.edu/~amini/LICENSE.md)
+   # Portfolio
+  [<img src="https://img.shields.io/badge/License-ISC-blue.svg">](https://www.isc.org/licenses/)
 
   ## Table of contents  
   [Description](#description)  
   [Installation](#installation)  
   [Usage](#usage)  
-  [Credits](#credits)  
+  [Contributing](#contributing)  
   [ContactMe](#contactme)  
   [License](#license)  
 
   ## Description
   My reasons for building this project:  
-  Description of project
+  description
 
   ## Installation
   The steps required to install this project:  
-  Steps here
+  steps required
 
   ## Usage
   Examples for use:  
-  Instructions go here.
+  instructions
 
   ## Contributing
   
-  [William Stock](https://github.com/wist118)  [Cassandra Hardin](https://github.com/cassdoes)  [Octocat GitHub](https://github.com/octocat)  
-  
+  [GitHub](https://github.com/octocat)  [Cassandra Hardin](https://github.com/cassdoes)  [William Stock](https://github.com/wist118)  
+    
 
   ## ContactMe
-  Contact me for additional questions or for ways you can contribute to this projects!
+  Contact me for additional questions or for ways you can contribute to this projects!  
   Cassandra Hardin  
-  GitHub: cassdoes  
+  GitHub: github.com/cassdoes  
   Email: cass@yahoo.com
   
 
   ## Tests
-  No testing.
+  No testing
 
   ## License
-  Licensed by the [MIT](https://www.mit.edu/~amini/LICENSE.md) license.
+  Licensed by the [ISC](https://www.isc.org/licenses/) license.
