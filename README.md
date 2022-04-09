@@ -20,7 +20,8 @@
 
   ## Credits
   
-  [Willaim Stock](https://github.com/Wist118)[William Stock](https://github.com/Wist118)
+  [Willaim Stock](https://github.com/Wist118)  
+  [William Stock](https://github.com/Wist118)
   
 
   ## ContactMe
