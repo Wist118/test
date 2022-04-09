@@ -1,10 +1,7 @@
+  # fdgsgdsfgdf
+  [<img src="https://img.shields.io/badge/License-ISC-blue.svg">](https://www.isc.org/licenses/)
 
-
-  # gfhjgfhj
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://www.mit.edu/~amini/LICENSE.md)
-  
-
-  ## Table of contents
+  ## Table of contents  
   [Description](#description)  
   [Installation](#installation)  
   [Usage](#usage)  
@@ -13,27 +10,26 @@
   [License](#license)  
 
   ## Description
-  gfhj
+  dsfgsdfgdfs
 
   ## Installation
-  ghfj
+  dsfgdsfg
 
   ## Usage
-  ghfj
+  gsdfgsdfg
 
   ## Credits
   
-  image and link
-  gfdhdfghgdfh
+  [Willaim Stock](https://github.com/Wist118)[William Stock](https://github.com/Wist118)
   
 
   ## ContactMe
-  fghj
-  jgfhjfghj
-  hgfjgfhj
+  fdsgdfsgsdfg
+  sdfgdsfgfgd
+  fsdfdsafasd
 
   ## Tests
-  gfhjfghj
+  sadfsadf
 
   ## License
-  MIT2
+  [ISC](https://www.isc.org/licenses/)
