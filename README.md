@@ -1,4 +1,4 @@
-  # Project
+  # asdf
   [<img src="https://img.shields.io/badge/License-ISC-blue.svg">](https://www.isc.org/licenses/)
 
   ## Table of contents  
@@ -11,30 +11,34 @@
 
   ## Description
   My reasons for building this project:  
-  Description of thangs
+  asdf
 
   ## Installation
   The steps required to install this project:  
-  Steps to thangs
+  asdf
 
   ## Usage
   Examples for use:  
-  Instructions to THANGS
+  asdf
 
   ## Contributing
   
-  [GitHub](https://github.com/octocat)  [Cassandra Hardin](https://github.com/cassdoes)  [William Stock](https://github.com/wist118)  
+  [GitHub](https://github.com/octocat)  
+    [Cassandra Hardin](https://github.com/cassadoes)  
+    [William Stock](https://github.com/wist118)  
     
+    
+
 
   ## ContactMe
   Contact me for additional questions or for ways you can contribute to this projects!  
   William Stock  
-  GitHub: https://github.com/wist118/  
-  Email: cass@yahoo.com
+  GitHub: (https://github.com/wist118/)  
+  Email: william@yahoo.com
   
 
   ## Tests
-  No testing
+  asdf
 
   ## License
   Licensed by the [ISC](https://www.isc.org/licenses/) license.
