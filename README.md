@@ -1,4 +1,4 @@
-   # Portfolio
+  # Project
   [<img src="https://img.shields.io/badge/License-ISC-blue.svg">](https://www.isc.org/licenses/)
 
   ## Table of contents  
@@ -11,15 +11,15 @@
 
   ## Description
   My reasons for building this project:  
-  description
+  Description of thangs
 
   ## Installation
   The steps required to install this project:  
-  steps required
+  Steps to thangs
 
   ## Usage
   Examples for use:  
-  instructions
+  Instructions to THANGS
 
   ## Contributing
   
@@ -28,8 +28,8 @@
 
   ## ContactMe
   Contact me for additional questions or for ways you can contribute to this projects!  
-  Cassandra Hardin  
-  GitHub: github.com/cassdoes  
+  William Stock  
+  GitHub: (https://github.com/wist118/)  
   Email: cass@yahoo.com
   
 
