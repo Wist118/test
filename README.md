@@ -1,5 +1,5 @@
-  # fdgsgdsfgdf
-  [<img src="https://img.shields.io/badge/License-ISC-blue.svg">](https://www.isc.org/licenses/)
+  # Portfolio
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://www.mit.edu/~amini/LICENSE.md)
 
   ## Table of contents  
   [Description](#description)  
@@ -10,27 +10,31 @@
   [License](#license)  
 
   ## Description
-  dsfgsdfgdfs
+  My reasons for building this project:  
+  Description of project
 
   ## Installation
-  dsfgdsfg
+  The steps required to install this project:  
+  Steps here
 
   ## Usage
-  gsdfgsdfg
+  Examples for use:  
+  Instructions go here.
 
-  ## Credits
+  ## Contributing
   
-  [Willaim Stock](https://github.com/Wist118)  
-  [William Stock](https://github.com/Wist118)
+  [William Stock](https://github.com/wist118)  [Cassandra Hardin](https://github.com/cassdoes)  [Octocat GitHub](https://github.com/octocat)  
   
 
   ## ContactMe
-  fdsgdfsgsdfg
-  sdfgdsfgfgd
-  fsdfdsafasd
+  Contact me for additional questions or for ways you can contribute to this projects!
+  Cassandra Hardin  
+  GitHub: cassdoes  
+  Email: cass@yahoo.com
+  
 
   ## Tests
-  sadfsadf
+  No testing.
 
   ## License
-  [ISC](https://www.isc.org/licenses/)
+  Licensed by the [MIT](https://www.mit.edu/~amini/LICENSE.md) license.
