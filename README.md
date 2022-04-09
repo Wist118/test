@@ -33,7 +33,7 @@
   ## ContactMe
   Contact me for additional questions or for ways you can contribute to this projects!  
   William Stock  
-  GitHub: https://github.com/wist118/  
+  GitHub: https://github.com/wist118  
   Email: william@yahoo.com
   
 
