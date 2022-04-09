@@ -1,7 +1,7 @@
 
 
   # gfhjgfhj
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://github.com/Wist118/test/edit/main/README.md)
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://www.mit.edu/~amini/LICENSE.md)
   
 
   ## Table of contents
