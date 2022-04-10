@@ -24,16 +24,16 @@
 
   ## Contributing
   
-  [first Collab here](https://github.com/their github here)  
+  [Cassandra Hardin](https://github.com/cassdoes)  
     
     
 
 
   ## ContactMe
   Contact me for additional questions or for ways you can contribute to this project!  
-  **Willaim Stock**  
+  **William Stock**  
   GitHub: https://github.com/Wist118  
-  Email: email here
+  Email: someone@yahoo.com
   
 
   ## Tests
